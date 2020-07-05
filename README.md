@@ -8,3 +8,8 @@ In this Sort of repository i added my Deep-Learning-Nanodegree Projects using py
   <li> Sentiment Analysis deploy in AWS</li>
   
   </ol>
+  
+  ## Certificate
+  <b>Link</b>
+  <a href="https://confirm.udacity.com/SG2639T7">Click Here </a><br/>
+<img src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/03f69727-8d8e-4863-ab1b-4bff19fb1476.svg" alt="Deep learning Nanodegree Sameer Ahmed">
