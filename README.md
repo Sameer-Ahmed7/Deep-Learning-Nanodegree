@@ -1,5 +1,11 @@
 # Deep-Learning-Nanodegree
-In this Sort of repository i added my Deep-Learning-Nanodegree Projects using pytorch 
+
+## Sameer Ahmed
+<p>
+  This is by far the most rewarding educational experience I have ever undertaken. What I love the most is the emphasis on actual projects and learning by doing. After having taken this course, I have decided to pursue a career in A.I and Machine Learning. This is the future of education.
+</p>
+<p>
+  Following project is done in this program </p>
 <ol>
   <li>Predicting Bike Sharing Patterens</li>
   <li> Dog Breed Classifier</li>
